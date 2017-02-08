@@ -1,0 +1,1 @@
+'Word Count (Programming Logic) and Max and Min Number (Programming Logic) labs'
